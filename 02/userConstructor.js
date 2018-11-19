@@ -3,3 +3,4 @@ UserConstructor = (function () {
         return Object.create(User.prototype);
     }
 }());
+//TRUE;
